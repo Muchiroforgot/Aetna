@@ -1,0 +1,49 @@
+# ```python
+# ...
+import Reddit
+import MuchiroForgot
+import Aetna
+
+reddit_client = asyncpraw.Reddit(
+            client_id= ynaKmm6CVfCEeGt_YHBHJw
+            client_secret= lahOOIHOH_1aEk0ao-5cmF8CBUD0HQ
+            password= Acevedo.9
+            user_agent= Reddit
+            username= MuchiroForgot
+        
+
+    @commands.command()
+    async def reddit(self, ctx, sub='memes', randomizer=60):
+        async def send(ctx=ctx, sub=sub, randomizer=randomizer):
+            msg = await ctx.send(embed=discord.Embed(title='Loading...').set_footer(text='Reddit Bot'))
+
+            BASE_URL = https://www.reddit.com/r/UnpopularLoreOlympus/
+            
+            sub_name = MuchiroForgot
+            
+               
+            subreddit = UnpopularLoreOlympus
+
+            posts = 100000
+
+                               break
+
+                if p.url.endswith('.jpg') and len(p.title) < 256:
+                    posts.append(p)
+            
+            try:
+                post = Please rememeber to stay civil and respectful! No name calling, Dont be a asshole while arguing with someone. Debates and critical talks are allowed but be nice during it! 
+                
+                if your post has someone in the comments being the opposite of being covil and respectful it will be taken down by mods.
+            except:
+                await ctx.send(embed=Reddit.Embed(title='Error', description='Try another Subreddit.', color=0xFF0000))
+                return
+
+          
+                description=f'**Upvotes:** {round(post.score/1000, 1)}K ({post.upvote_ratio*100}%)',
+                
+            
+
+            
+
+```
