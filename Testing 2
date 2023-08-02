@@ -1,0 +1,2 @@
+name = input('Hello my name is Aetna! i am the unoffical bot of UnpopluarLO, i am here to reminded you guys to stay respectful and civil when posting and commenting. You are allowed to have debates but please do not be an ass during it !!. ')
+print 'Hello '+name
